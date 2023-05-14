@@ -13,7 +13,8 @@
     "nodemon": "^2.0.22"
   },
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "terminal-call": "The terminal command has been called!!"
   },
   "type": "module"
 }
