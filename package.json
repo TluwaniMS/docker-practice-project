@@ -1,0 +1,9 @@
+{
+  "name": "docker-practice-project",
+  "version": "1.0.0",
+  "description": "This is a practice project to help individuals learn and understand docker.",
+  "main": "index.js",
+  "repository": "https://github.com/TluwaniMS/docker-practice-project.git",
+  "author": "tluwaniMS <tluwani2020@gmail.com>",
+  "license": "MIT"
+}
