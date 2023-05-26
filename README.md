@@ -1,5 +1,3 @@
-# docker-practice-project
-
 # Basic practice project
 
 ## Practice project 1:
